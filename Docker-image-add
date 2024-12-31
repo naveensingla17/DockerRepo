@@ -1,1 +1,3 @@
-
+FROM busybox
+ADD Docker.tar /opt/
+CMD ["sh"]
