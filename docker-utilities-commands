@@ -1,0 +1,2 @@
+apt-get install net-tools  # To install network packages
+apt-get install htop -y     # To install top uility
